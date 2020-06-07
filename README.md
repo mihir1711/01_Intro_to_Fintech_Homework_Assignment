@@ -8,7 +8,7 @@
 * `Name of the company`
     - [**Wealthsimple Technologies Inc.**](https://www.wealthsimple.com/)
 
-    ![WS_Image](images/WS_Image.png)
+    ![WS_Image](Images/WS_Image.png)
 
 
 * `When was the company incorporated?`
@@ -31,7 +31,7 @@
 
 * `Who is the company's intended customer?  Is there any information about the market size of this set of customers?`
     - The founders of Wealthsimple initially didn't plan to market to an older generation. Instead, as millennials werthemselves, they were looking to fill a gap they saw within their 25-to-30 age group when it came to investing. But since launching in 2012, the company has seen a shift in its user base with more Gen X clients – the generation preceding millennials – setting up accounts, as well as boomers who are hearing from their children about the online wealth managers who can save them money.
- ![Demographics](images/Demographics.jpg)   
+ ![Demographics](Images/Demographics.jpg)   
 
 * `What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)`
     - The main offering of Wealthsimple is gradual wealth building at a low cost. They do this by passive investing - They mirror the market rather than actively try to beat it. Studies have shown that in the long run, passive investing has provided considerably better returns compared to actively managed portfolios. While it may not be termed as an unfair advantage, the fact that Wealthsimple has no brick and mortar offices and everything is done online or via phone or email, they are able to reduce the operating expenses a great deal. This benefit is then passed on to client in the form of lower fees as compared to tradional banks and investment houses.
@@ -50,7 +50,7 @@
 * `What have been the major trends and innovations of this domain over the last 5-10 years?`
 
  - Roboadvisory has boradly followed a 4 step evolution over the years. Each step has seen techological advances leading to higer sophestication and greater automation.
-    ![Evolution](images/Evolution.jpg)
+    ![Evolution](Images/Evolution.jpg)
 
 * `What are the other major companies in this domain?`
     - The major players in this domain in Canada include but are not limited to:
@@ -77,7 +77,7 @@
 
 * `How is your company performing relative to competitors in the same domain?`
     - Below is a competition analyis report based on the factors listed above
-        ![Peer_Comparison](images/Peer_Comparison.png)
+        ![Peer_Comparison](Images/Peer_Comparison.png)
 ---
 ### Recommendations
 
